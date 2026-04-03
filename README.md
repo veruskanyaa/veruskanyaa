@@ -32,12 +32,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A8C4&center=true&vCenter=true&width=435&lines=welcome+to+my+little+corner+~+%F0%9F%8C%B8;illustrator+%F0%9F%8E%A8+%7C+programmer+%F0%9F%92%BB;bsit+student+%E2%9C%A8+yr+1;currently+learning+html+%2B+css+%2B+js+%F0%9F%8C%B1" alt="Typing SVG" />
 
-</div>
+
 
 
 ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚
 
 *✨ thanks for visiting my little corner of github~ ✨*
 
-</center>
+
 </div>
