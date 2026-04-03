@@ -34,60 +34,7 @@
 
 </div>
 
----
-
-```
- ╔══════════════════════════════════════════════════════════╗
- ║                    ✿  about me  ✿                        ║
- ╚══════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-🎨 **illustrator** who loves bringing ideas to life through art  
-💻 **programmer-in-training** — currently a **BSIT 1st year** student  
-🌱 still learning the ropes of **HTML**, **CSS**, and **JavaScript**  
-🧸 just a girl trying to make pretty things on the internet~  
-
-</div>
-
----
-
-```
- ╔══════════════════════════════════════════════════════════╗
- ║                  ✿  currently  ✿                         ║
- ╚══════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-🔭 studying **web development** basics  
-🎯 goal: build beautiful, creative websites  
-🖌️ drawing & designing in my free time  
-📚 learning something new every day!  
-
-</div>
-
----
-
-```
- ╔══════════════════════════════════════════════════════════╗
- ║                 ✿  tech stack  ✿                         ║
- ╚══════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
----
-
-<div align="center">
-
+<div>
 ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚
 
 *✨ thanks for visiting my little corner of github~ ✨*
