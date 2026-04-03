@@ -34,10 +34,10 @@
 
 </div>
 
-<div>
+<div><center> 
 ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚
 
 *✨ thanks for visiting my little corner of github~ ✨*
 
-
+</center>
 </div>
