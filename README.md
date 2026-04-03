@@ -28,7 +28,7 @@
 
 ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚
 
-**` illustrator`** · **` programmer`** · **` student`**
+**`🎨 illustrator`** · **`💻 programmer`** · **`🌱 student`**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A8C4&center=true&vCenter=true&width=435&lines=welcome+to+my+little+corner+~+%F0%9F%8C%B8;illustrator+%F0%9F%8E%A8+%7C+programmer+%F0%9F%92%BB;bsit+student+%E2%9C%A8+yr+1;currently+learning+html+%2B+css+%2B+js+%F0%9F%8C%B1" alt="Typing SVG" />
 
@@ -45,7 +45,7 @@
 <div align="center">
 
 🎨 **illustrator** who loves bringing ideas to life through art  
-💻 **programmer-in-training** — currently a **BSIT 2nd year** student  
+💻 **programmer-in-training** — currently a **BSIT 1st year** student  
 🌱 still learning the ropes of **HTML**, **CSS**, and **JavaScript**  
 🧸 just a girl trying to make pretty things on the internet~  
 
@@ -55,7 +55,7 @@
 
 ```
  ╔══════════════════════════════════════════════════════════╗
- ║                      ✿  currently  ✿                     ║
+ ║                  ✿  currently  ✿                         ║
  ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -72,7 +72,7 @@
 
 ```
  ╔══════════════════════════════════════════════════════════╗
- ║                     ✿  tech stack  ✿                     ║
+ ║                 ✿  tech stack  ✿                         ║
  ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -91,7 +91,6 @@
 ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚ . ✧ . ˚ · . ✦ . · ˚
 
 *✨ thanks for visiting my little corner of github~ ✨*
-
 
 
 </div>
